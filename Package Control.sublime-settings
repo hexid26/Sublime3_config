@@ -1,0 +1,37 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Agila Theme",
+		"Anaconda",
+		"Better CoffeeScript",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"ChineseOpenConvert",
+		"Codecs33",
+		"ConvertChineseCharacters",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"DocBlockr_Python",
+		"FileDiffs",
+		"INI",
+		"Insert Nums",
+		"LaTeXing",
+		"Material Theme",
+		"Package Control",
+		"Predawn",
+		"PyYapf Python Formatter",
+		"SideBarEnhancements",
+		"Solarized Color Scheme",
+		"Sort Lines (Numerically)",
+		"Sublimerge 3",
+		"Terminal",
+		"Tomorrow Color Schemes",
+		"Tomorrow Night Italics Color Scheme",
+		"Tradsim",
+		"Trimmer"
+	]
+}

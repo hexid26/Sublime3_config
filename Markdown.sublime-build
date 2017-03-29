@@ -1,0 +1,4 @@
+{
+  "cmd": ["/Applications/Marked 2.app/Contents/MacOS/Marked 2", "$file"],
+  "selector": "text.html.markdown"
+}
