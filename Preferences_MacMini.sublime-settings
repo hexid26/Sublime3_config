@@ -31,7 +31,7 @@
 	"font_face": "Inconsolata",
 	"font_options":
 	[
-		"gray_antialias"
+		"no_round"
 	],
 	"font_size": 18,
 	"gutter": true,
