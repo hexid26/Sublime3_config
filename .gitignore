@@ -3,9 +3,9 @@ Package Control.ca-list
 Package Control.ca-bundle
 Package Control.system-ca-bundle
 Package Control.merged-ca-bundle
+oscrypto-ca-bundle.crt
 Package Control.cache/
 Package Control.ca-certs/
-oscrypto-ca-bundle.crt
 c2u_tmp/
 Sublimerge Macros.sublime-commands
 encoding_cache.json
