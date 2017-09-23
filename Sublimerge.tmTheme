@@ -23,6 +23,8 @@
 				<string>#586e75</string>
 				<key>lineHighlight</key>
 				<string>#1CD1FF12</string>
+				<key>misspelling</key>
+				<string>#dc322f</string>
 				<key>selection</key>
 				<string>#2c4c55</string>
 				<key>selectionBorder</key>
@@ -178,7 +180,7 @@
 			<key>name</key>
 			<string>Class</string>
 			<key>scope</key>
-			<string>keyword.control.class, meta.class, entity.name, entity.name.class, entity.name.type.class</string>
+			<string>keyword.control.class, entity.name, entity.name.class, entity.name.type.class</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -385,9 +387,9 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Quoted Single</string>
+			<string>Quotes</string>
 			<key>scope</key>
-			<string>punctuation.definition.string.begin, punctuation.definition.string.end</string>
+			<string>punctuation.definition.string</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -398,7 +400,7 @@
 			<key>name</key>
 			<string>[]</string>
 			<key>scope</key>
-			<string>meta.brace.square</string>
+			<string>meta.brace.square, punctuation.section.brackets</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -407,20 +409,9 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>()</string>
+			<string>(),{}</string>
 			<key>scope</key>
-			<string>meta.brace.round, punctuation.definition.parameters.begin, punctuation.definition.parameters.end</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#657b83</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>{}</string>
-			<key>scope</key>
-			<string>meta.brace.curly</string>
+			<string>meta.brace.round, meta.brace.curly, punctuation.section, punctuation.section.block, punctuation.definition.parameters, punctuation.section.group</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -1204,17 +1195,6 @@
 			<string>JavaScript Variables</string>
 			<key>scope</key>
 			<string>variable.other.readwrite.js, variable.other.object.js, variable.other.constant.js</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#839496</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>JavaScript punctation inside class</string>
-			<key>scope</key>
-			<string>meta.class punctuation</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>

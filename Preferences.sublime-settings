@@ -2,7 +2,19 @@
 	"added_words":
 	[
 		"Ctrl",
-		"Cmd"
+		"Cmd",
+		"Haixiang",
+		"Huazhong",
+		"hexid26",
+		"hust",
+		"edu",
+		"cn",
+		"uplink",
+		"downlink",
+		"softwarization",
+		"smartphone",
+		"Openflow",
+		"virtualization"
 	],
 	"always_show_minimap_viewport": true,
 	"auto_complete": true,
@@ -31,7 +43,7 @@
 	"font_face": "Inconsolata",
 	"font_options":
 	[
-		"gray_antialias"
+		"no_bold"
 	],
 	"font_size": 18,
 	"gutter": true,
@@ -81,7 +93,7 @@
 	"show_full_path": true,
 	"show_line_endings": true,
 	"smart_indent": true,
-	"spell_check": false,
+	"spell_check": true,
 	"tabs_small": true,
 	"theme": "Material-Theme-Palenight.sublime-theme",
 	"translate_tabs_to_spaces": true,
