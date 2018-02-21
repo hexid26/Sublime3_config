@@ -22,7 +22,7 @@
 	"caret_extra_top": 4,
 	"caret_extra_width": 4,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Solarized Color Scheme/Solarized (dark).tmTheme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
 	"default_encoding": "UTF-8",
 	"draw_centered": false,
 	"draw_indent_guides": true,
